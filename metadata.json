@@ -1,0 +1,6 @@
+{
+  "name": "BiasharaOS - Kenyan Business Operating System",
+  "description": "Simple, modern, affordable business management platform for Kenyan SMEs with sales, inventory, M-Pesa tracking, eTIMS readiness, invoicing, accounting, and multi-branch operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
